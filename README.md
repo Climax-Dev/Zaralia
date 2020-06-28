@@ -1,2 +1,2 @@
 # Zaralia
-sdfsdfsdfdsfsd
+Zaralia Bot
